@@ -1,0 +1,134 @@
+{
+  "artworks": [
+    {
+      "name": "Moments Contained",
+      "artist": "Thomas J. Price",
+      "year": 2022,
+      "location": "Stationsplein, 3013 AJ Rotterdam",
+      "latitude": 51.923363742463074,
+      "longitude": 4.470621321927999,
+      "short_description": "A bronze sculpture of a fictional young woman with a confident posture, directly connected to her surroundings.",
+      "long_description": "The statue Moments Contained at Rotterdam Central is an impressive bronze sculpture of a fictional, anonymous young woman. With her confident posture and her clenched fists visible in her pockets, the sculpture suggests an inner tension that is not immediately visible. Unlike traditional statues, she does not stand on a pedestal but on the ground, creating a direct connection with her environment and the viewers. The title Moments Contained refers to the suppression of emotions, according to artist Thomas J. Price. The sculpture raises questions about who in society is deemed worthy of being honored in the form of a monument. Public sculptures are often reserved for powerful men, but with this work, the artist aims to spark a discussion about who deserves visibility and representation. He describes the depicted woman as stoic, resilient, and vulnerable, making her a complex and intriguing character."
+    },
+    {
+      "name": "Erasmus",
+      "artist": "Hendrick de Keyser",
+      "year": 1622,
+      "location": "Grotekerkplein 15, 3011 GC Rotterdam",
+      "latitude": 51.92164158337339,
+      "longitude": 4.484350032677035,
+      "short_description": "The oldest bronze statue in the Netherlands, a tribute to the humanist Desiderius Erasmus.",
+      "long_description": "Sculptor Hendrick de Keyser designed this statue of Desiderius Erasmus based on painted portraits and drawings. In these portraits, Erasmus is often depicted wearing a tabard and the characteristic bonnet, reading with a serious expression. The same applies here, in the Rotterdam statue of the humanist. It was cast in 1622 and placed at the Grotemarkt. After surviving the bombing of the city, the statue was removed from its pedestal and hidden in the Museum Boijmans Van Beuningen during the war. Now, Erasmus is once again on public display."
+    },
+    {
+      "name": "Everybody is Dead Except Us",
+      "artist": "Ben Zegers",
+      "year": 2020,
+      "location": "Hoogstraat 126, 3011 PV Rotterdam",
+      "latitude": 51.92121052097725,
+      "longitude": 4.486939178892862,
+      "short_description": "Two gigantic aluminum feet mark the location where Rotterdam was founded.",
+      "long_description": "Everybody is Dead Except Us is the rather grim title of the artwork unveiled in 2020 at the intersection of Binnenrotte and Hoogstraat. Not coincidentally, this is precisely where Rotterdam was founded. Artist Ben Zegers created two gigantic aluminum feet as a marker for this location. Why feet? They refer to the footsteps of the first Rotterdammers and to the foot position of Edgar Degas' ballerina from the Museum Boijmans Van Beuningen collection. The dynamic appearance of these feet aligns with the bustling market and city. And the title? It uniquely binds the past, present, and future together, calling on people to make the most of the present."
+    },
+    {
+      "name": "The Destroyed City",
+      "artist": "Ossip Zadkine",
+      "year": 1953,
+      "location": "3011 EA Rotterdam",
+      "latitude": 51.91780666100875,
+      "longitude": 4.48315626878882,
+      "short_description": "A devastated figure with a hole where the heart used to be, symbolizing Rotterdam's destruction.",
+      "long_description": "The Destroyed City responds to one of the most significant events in Rotterdam's history: the bombing of May 14, 1940. French artist Ossip Zadkine translated this into a devastated figure with a hole where the heart used to be, symbolizing Rotterdam’s destroyed city center. The impressive four-meter-high sculpture and national monument express the emotions many Rotterdammers likely felt when they saw their ruined city after the war. It became one of the most famous war memorials in Western Europe and Zadkine’s life’s work, characterized by his expressive and cubist style. It serves as a lasting reminder of something that should never be forgotten. Every year, the destruction of Rotterdam is commemorated here, at Plein 1940 near Leuvehaven."
+    },
+    {
+      "name": "Santa Claus",
+      "artist": "Paul McCarthy",
+      "year": 2001,
+      "location": "Eendrachtsplein, 3012 LA Rotterdam",
+      "latitude": 51.9171818778604,
+      "longitude": 4.473353848936274,
+      "short_description": "A controversial statue of a gnome holding an object that resembles both a Christmas tree and a buttplug.",
+      "long_description": "This sculpture by American artist Paul McCarthy was unveiled in 2001 and sparked much discussion. It depicts a large gnome holding an object that some see as a Christmas tree but others as a buttplug. This playful yet provocative artwork challenges viewers to reflect on consumer culture, sexuality, and public art."
+    },
+    {
+      "name": "Santa Claus",
+      "artist": "Paul McCarthy",
+      "year": 2001,
+      "location": "Eendrachtsplein, 3012 LA Rotterdam",
+      "latitude": 51.9171818778604,
+      "longitude": 4.473353848936274,
+      "short_description": "A controversial statue of a gnome holding an object that resembles both a Christmas tree and a buttplug.",
+      "long_description": "This sculpture by American artist Paul McCarthy was unveiled in 2001 and sparked much discussion. It depicts a large gnome holding an object that some see as a Christmas tree but others as a buttplug. This playful yet provocative artwork challenges viewers to reflect on consumer culture, sexuality, and public art."
+    },
+    {
+      "name": "Santa Claus",
+      "artist": "Paul McCarthy",
+      "year": 2001,
+      "location": "Eendrachtsplein, 3012 LA Rotterdam",
+      "latitude": 51.9171818778604,
+      "longitude": 4.473353848936274,
+      "short_description": "A controversial statue of a gnome holding an object that resembles both a Christmas tree and a buttplug.",
+      "long_description": "This sculpture by American artist Paul McCarthy was unveiled in 2001 and sparked much discussion. It depicts a large gnome holding an object that some see as a Christmas tree but others as a buttplug. This playful yet provocative artwork challenges viewers to reflect on consumer culture, sexuality, and public art."
+    },
+    {
+      "name": "Santa Claus",
+      "artist": "Paul McCarthy",
+      "year": 2001,
+      "location": "Eendrachtsplein, 3012 LA Rotterdam",
+      "latitude": 51.9171818778604,
+      "longitude": 4.473353848936274,
+      "short_description": "A controversial statue of a gnome holding an object that resembles both a Christmas tree and a buttplug.",
+      "long_description": "This sculpture by American artist Paul McCarthy was unveiled in 2001 and sparked much discussion. It depicts a large gnome holding an object that some see as a Christmas tree but others as a buttplug. This playful yet provocative artwork challenges viewers to reflect on consumer culture, sexuality, and public art."
+    },
+    {
+      "name": "Santa Claus",
+      "artist": "Paul McCarthy",
+      "year": 2001,
+      "location": "Eendrachtsplein, 3012 LA Rotterdam",
+      "latitude": 51.9171818778604,
+      "longitude": 4.473353848936274,
+      "short_description": "A controversial statue of a gnome holding an object that resembles both a Christmas tree and a buttplug.",
+      "long_description": "This sculpture by American artist Paul McCarthy was unveiled in 2001 and sparked much discussion. It depicts a large gnome holding an object that some see as a Christmas tree but others as a buttplug. This playful yet provocative artwork challenges viewers to reflect on consumer culture, sexuality, and public art."
+    },
+    {
+      "name": "Santa Claus",
+      "artist": "Paul McCarthy",
+      "year": 2001,
+      "location": "Eendrachtsplein, 3012 LA Rotterdam",
+      "latitude": 51.9171818778604,
+      "longitude": 4.473353848936274,
+      "short_description": "A controversial statue of a gnome holding an object that resembles both a Christmas tree and a buttplug.",
+      "long_description": "This sculpture by American artist Paul McCarthy was unveiled in 2001 and sparked much discussion. It depicts a large gnome holding an object that some see as a Christmas tree but others as a buttplug. This playful yet provocative artwork challenges viewers to reflect on consumer culture, sexuality, and public art."
+    },
+    {
+      "name": "Santa Claus",
+      "artist": "Paul McCarthy",
+      "year": 2001,
+      "location": "Eendrachtsplein, 3012 LA Rotterdam",
+      "latitude": 51.9171818778604,
+      "longitude": 4.473353848936274,
+      "short_description": "A controversial statue of a gnome holding an object that resembles both a Christmas tree and a buttplug.",
+      "long_description": "This sculpture by American artist Paul McCarthy was unveiled in 2001 and sparked much discussion. It depicts a large gnome holding an object that some see as a Christmas tree but others as a buttplug. This playful yet provocative artwork challenges viewers to reflect on consumer culture, sexuality, and public art."
+    },
+    {
+      "name": "Santa Claus",
+      "artist": "Paul McCarthy",
+      "year": 2001,
+      "location": "Eendrachtsplein, 3012 LA Rotterdam",
+      "latitude": 51.9171818778604,
+      "longitude": 4.473353848936274,
+      "short_description": "A controversial statue of a gnome holding an object that resembles both a Christmas tree and a buttplug.",
+      "long_description": "This sculpture by American artist Paul McCarthy was unveiled in 2001 and sparked much discussion. It depicts a large gnome holding an object that some see as a Christmas tree but others as a buttplug. This playful yet provocative artwork challenges viewers to reflect on consumer culture, sexuality, and public art."
+    },
+    {
+      "name": "Santa Claus",
+      "artist": "Paul McCarthy",
+      "year": 2001,
+      "location": "Eendrachtsplein, 3012 LA Rotterdam",
+      "latitude": 51.9171818778604,
+      "longitude": 4.473353848936274,
+      "short_description": "A controversial statue of a gnome holding an object that resembles both a Christmas tree and a buttplug.",
+      "long_description": "This sculpture by American artist Paul McCarthy was unveiled in 2001 and sparked much discussion. It depicts a large gnome holding an object that some see as a Christmas tree but others as a buttplug. This playful yet provocative artwork challenges viewers to reflect on consumer culture, sexuality, and public art."
+    }
+  ]
+}
